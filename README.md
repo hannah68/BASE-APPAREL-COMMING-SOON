@@ -1,4 +1,5 @@
-# Frontend Mentor - Base Apparel coming soon page
+Base Apparel coming soon page
+<p>This is a challenge from Frontendmentor</p>
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
